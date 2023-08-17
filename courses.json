@@ -1,0 +1,50 @@
+[
+    {
+        'id':1,
+        'thumb':'./images/course-01.jpg',
+        'category':'Webdesign',
+        'price':160,
+        'author':'Stella Blair',
+        'title':'Learn Web Design'
+    },
+    {
+        'id':2,
+        'thumb':'./images/course-02.jpg',
+        'category':'Development',
+        'price':340,
+        'author':'Cindy Walker',
+        'title':'Web Development Tips'
+    },
+    {
+        'id':3,
+        'thumb':'./images/course-03.jpg',
+        'category':'Wordpress',
+        'price':640,
+        'author':'David Hutson',
+        'title':'Latest Web Trends'
+    },
+    {
+        'id':4,
+        'thumb':'./images/course-04.jpg',
+        'category':'Development',
+        'price':450,
+        'author':'Stella Blair',
+        'title':'Online Learning Steps'
+    },
+    {
+        'id':5,
+        'thumb':'./images/course-05.jpg',
+        'category':'Wordpress',
+        'price':320,
+        'author':'Stella Blair',
+        'title':'Be a WordPress Master'
+    },
+    {
+        'id':6,
+        'thumb':'./images/course-06.jpg',
+        'category':'Webdesign',
+        'price':240,
+        'author':'David Hutson',
+        'title':'Full Stack Developer'
+    },
+]
