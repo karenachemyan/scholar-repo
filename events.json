@@ -1,0 +1,31 @@
+[
+
+        {
+            "id":1,
+            "category":"Web Design",
+            "title":"UI Best Practices",
+            "date":"16 Feb 2036",
+            "duration":"22 Hours",
+            "price":120,
+            "image":"./images/event-01.jpg"
+        },
+        {
+            "id":2,
+            "category":"Front End",
+            "title":"New Design Trend",
+            "date":"24 Feb 2036",
+            "duration":"30 Hours",
+            "price":320,
+            "image":"./images/event-02.jpg"
+        },
+        {
+            "id":3,
+            "category":"FULL STACK",
+            "title":"Web Programming",
+            "date":"12 Mar 2036",
+            "duration":"48 Hours",
+            "price":440,
+            "image":"./images/event-03.jpg"
+        }
+
+    ]
