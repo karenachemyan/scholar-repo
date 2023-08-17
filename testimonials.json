@@ -1,0 +1,23 @@
+[
+        {
+        "id":1,
+        "description":"Please tell your friends or collegues about TemplateMo website. Anyone can access the website to download free templates. Thank you for visiting.",
+        "image":"./images/testimonial-author.jpg",
+        "category":"Full Stack Master",
+        "author":"Claude David"
+        },
+        {
+            "id":2,
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravid.",
+            "image":"./images/testimonial-author.jpg",
+            "category":"UI Expert",
+            "author":"Thomas Jefferson"
+        },
+        {
+            "id":3,
+            "description":"Scholar is free website template provided by TemplateMo for educational related websites. This CSS layout is based on Bootstrap v5.3.0 framework.",
+            "image":"./images/testimonial-author.jpg",
+            "category":"Digital Animator",
+            "author":"Stella Blair"
+        }
+    ]
