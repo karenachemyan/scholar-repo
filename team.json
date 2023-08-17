@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "category":"UX Teacher",
+        "fullName":"Sophia Rose",
+        "socials":{
+            "facebook":"",
+            "twitter":"",
+            "linkedin":""
+
+        },
+        "image":"./images/member-01.jpg"       
+    },
+    {
+        "id":2,
+        "category":"Graphic Teacher",
+        "fullName":"Cindy Walker",
+        "socials":{
+            "facebook":"",
+            "twitter":"",
+            "linkedin":""
+
+        },
+        "image":"./images/member-02.jpg"       
+    },
+    {
+        "id":3,
+        "category":"Full Stack Master",
+        "fullName":"David Hutson",
+        "socials":{
+            "facebook":"",
+            "twitter":"",
+            "linkedin":""
+
+        },
+        "image":"./images/member-03.jpg"       
+    },
+    {
+        "id":4,
+        "category":"Digital Animator",
+        "fullName":"Stella Blair",
+        "socials":{
+            "facebook":"",
+            "twitter":"",
+            "linkedin":""
+
+        },
+        "image":"./images/member-04.jpg"       
+    }
+]
